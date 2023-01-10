@@ -3,6 +3,7 @@ package com.bridgelabz.CoreJavaAndFunction;
 import java.util.Scanner;
 
 public class SwapTwoNumber {
+    
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
