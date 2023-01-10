@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class PowerOfTwo {
 
     public static void main(String[] args) {
+        
         int num = 2;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Power value for 2");
